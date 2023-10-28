@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: brown;
+  margin: 0px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  font-size: xx-large;
+}
+
+img {
+  background-color: aqua;
+}
+
+main {
+  margin: 0px 10px;
+}
+
+.imagenes_secundarias {
+  display: flex;
+  gap: 10px;
+
+}
+
+footer {
+  background-color: brown;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 10px;
+}
+
+.primera_parte {
+  display: flex;
+  justify-content: center;
+}
